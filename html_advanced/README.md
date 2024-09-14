@@ -1,21 +1,16 @@
-# ALU Web Development - HTML Advanced Project
+In this project, a webpage is implemented from scratch from a designer file, focusing only on html structure.
 
-## Project Overview
-This project involves implementing a webpage from a designer file using pure HTML semantic structure. The focus is on creating a well-structured HTML document without any CSS or styling.
+Objectives: This is a simple project meant to help build a strong knowledge in web development, and also build a better background in the vanilla html, css and javascript, moving forward.
 
-## Objectives
-- Implement the HTML structure based on the provided Figma design.
-- Ensure the HTML is semantic and well-organized.
+General:
 
-## Figma Design
-The design file is available on Figma. You can access it here. Duplicate the file to your drafts to view all design details.
+What is HTML
+How to create an HTML page from a wireframe
+What is a markup language
+What is the DOM
+What is an element / tag
+What is an attribute
+What the purpose of each HTML tag
 
-## Important Notes
-- If your computer is missing fonts, you can download them from source-sans-pro and Spin-Cycle-OT.
-- Some values in the design might be in float; feel free to round them.
-
-## How to Use
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/Username/GitHub repository: alu-web-development
+Overview of the page:
 
