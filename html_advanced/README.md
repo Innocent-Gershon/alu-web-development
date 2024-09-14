@@ -4,13 +4,13 @@ Objectives: This is a simple project meant to help build a strong knowledge in w
 
 General:
 
-What is HTML
-How to create an HTML page from a wireframe
-What is a markup language
-What is the DOM
-What is an element / tag
-What is an attribute
-What the purpose of each HTML tag
+1.What is HTML
+2.How to create an HTML page from a wireframe
+3.What is a markup language
+4.What is the DOM
+5.What is an element / tag
+6.What is an attribute
+7.What the purpose of each HTML tag
 
 Overview of the page:
 
