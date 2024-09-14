@@ -1,1 +1,51 @@
-Nul
+body {
+
+    display:flex;
+
+    flex-direction: column;
+}
+main {
+
+    display:flex;
+
+    flex-direction: row;
+
+    flex: auto;
+
+    background-color: blanchedalmond;
+
+    border-radius: 30px;
+
+    width: 100%
+}
+article {
+
+    flex: 2;
+
+    overflow-y: auto;
+}
+aside  {
+
+    flex: 1;
+
+    overflow-y: auto;
+
+    background-color: rgb(33, 30, 26);
+
+    border-radius: 26px;
+}
+
+header {
+
+    margin: auto;
+
+    background-color: beige;
+
+    border-radius: 20px;
+
+    width: 100%
+}
+
+footer {
+    width: 100%;
+}	
