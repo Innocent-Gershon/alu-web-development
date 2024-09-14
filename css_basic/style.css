@@ -48,4 +48,9 @@ header {
 
 footer {
     width: 100%;
-}	
+}
+/* Style for the logo */
+.logo {
+    font-size: 24px; /* Make the logo bigger */
+    color: #333; /* Optional: Change the color */
+}
