@@ -13,4 +13,5 @@ General:
 7.What the purpose of each HTML tag
 
 Overview of the page:
+https://github.com/Innocent-Gershon/alu-web-development/blob/main/Overview%20of%20the%20page.png?raw=true
 
