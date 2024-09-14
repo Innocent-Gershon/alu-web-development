@@ -19,6 +19,7 @@ General:
 7.What the purpose of each HTML tag
 
 Overview of the page:
+
 ![image](https://github.com/user-attachments/assets/c2f15bd0-bd53-412a-9703-8b2766a48429)
 
 
