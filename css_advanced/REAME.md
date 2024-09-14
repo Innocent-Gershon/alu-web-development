@@ -4,13 +4,20 @@ Objectives: This is a simple project meant to help build a strong knowledge in w
 
 General:
 
-What is CSS
-How to add style to an element
-What is a class
-What is a selector
-How to compute CSS Specificity Value
-What are Box properties in CSS
-How does the browser load a webpage
+1.What is CSS
+
+2.How to add style to an element
+
+3.What is a class
+
+4.What is a selector
+
+5.How to compute CSS Specificity Value
+
+6.What are Box properties in CSS
+
+7.How does the browser load a webpage
+
 
 Overview of the Webpage:
 
